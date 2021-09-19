@@ -1,0 +1,4 @@
+duration = 1.0
+translationAmount = 5
+loadAnimation = "INWARD"
+disableNearby = true
