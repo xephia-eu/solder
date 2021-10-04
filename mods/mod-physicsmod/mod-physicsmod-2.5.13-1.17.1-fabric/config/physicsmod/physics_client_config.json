@@ -1,0 +1,22 @@
+{
+  "mobPhysicsType": 4,
+  "blockPhysicsNew": 1,
+  "maxPhysicsObjects": 10000,
+  "blockPhysicsScale": 0.4,
+  "particleLifetimeMobs": 0.1,
+  "particleLifetimeBlocks": 0.1,
+  "particleLifetimeVines": 0.1,
+  "cpuThreads": 1,
+  "itemPhysics": true,
+  "minecraftBlockBreakParticles": false,
+  "vinePhysics": true,
+  "clothPhysics": true,
+  "clothSmoothShading": false,
+  "physicsModCape": true,
+  "selectedPhysicsCape": "Physics Mod Cape.dae",
+  "showUpdateNotifications": true,
+  "clothThreads": 1,
+  "customizedGravities": [],
+  "customizedBuoyancies": [],
+  "customizedCapes": []
+}
